@@ -12,6 +12,12 @@ In my past journey, I have acquired a diverse array of tools and techniques thro
 
 Just like Steve Jobs, who took a calligraphy class out of interest, only to later use that knowledge to make the first Macintosh the first computer to allow users to change fonts.I believe it's up to me to combine all my past experiences and transform them into something meaningful, unlocking the potential for breakthrough innovation.
 
+## Something that is not in my Resume!
+
+My first internship is a startup company in New Taipei City, Taiwan. At there, I not only learn how to code but also have the chance to do an elevator pitch to Foxconn in the job match event for crowd funding. I learn how to communicate and sale our product efficently. 
+
+There are many kind of motivation to pursue a Computer Science but mine is different. At my high school year, I have the opportunity to participate in robot competition- rescue line (Robocup) . The seed planted when I was astonished by the multi-sensor on the humanoid robot and the logic and algorithm for the robot proceeds data to imitate human sport. 
+
 ### Programming Languages
 
 [![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
