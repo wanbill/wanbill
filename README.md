@@ -18,9 +18,11 @@ My first internship is a startup company in New Taipei City, Taiwan. At there, I
 
 There are many motivations to pursue Computer Science, but mine is different. During high school, I had the opportunity to participate in a robotics competition—Rescue Line (RoboCup). The spark was ignited when I was amazed by the multi-sensor capabilities of a humanoid robot and the logic and algorithms it used to process data and imitate human sports. I ended up placing eighth at the 2016 World League in Leipzig, competing against 43 teams, and fifth at the 2017 World League in Nagoya, out of 56 teams. That experience planted the idea in me: to become the brain, to be the algorithm itself. (Representative team of Taiwan 2016, 2017)
 
-## Ongoing Research Project
+## Ongoing Research Projects
 
 Currently, I am working on financial analyst with large language model with dataset from WRDS UPenn.
+
+Research Assistant on LLM/ NLP at Northwestern for winter quater.
 
 ### Programming Languages
 
