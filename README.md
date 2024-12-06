@@ -14,7 +14,7 @@ Just like Steve Jobs, who took a calligraphy class out of interest, only to late
 
 ## Something that is not in my Resume!
 
-My first internship is a startup company in New Taipei City, Taiwan. At there, I not only learn how to code but also have the chance to do an elevator pitch to Foxconn in the job match event for crowd funding. I learn how to communicate and sale our product efficently. 
+During the pandemic, I decided to take a gap year to explore my interests and complete my mandatory military service. During this time, I interned at a startup company in New Taipei City, Taiwan. There, I not only learned how to code but also had the opportunity to deliver an elevator pitch to Foxconn at a crowdfunding job match event. This experience taught me how to communicate effectively and pitch our product efficiently, developing valuable sales and presentation skills.
 
 There are many motivations to pursue Computer Science, but mine is different. During high school, I had the opportunity to participate in a robotics competition—Rescue Line (RoboCup). The spark was ignited when I was amazed by the multi-sensor capabilities of a humanoid robot and the logic and algorithms it used to process data and imitate human sports. I ended up placing eighth at the 2016 World League in Leipzig, competing against 43 teams, and fifth at the 2017 World League in Nagoya, out of 56 teams. That experience planted the idea in me: to become the brain, to be the algorithm itself. (Representative team of Taiwan 2016, 2017)
 
