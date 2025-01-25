@@ -20,9 +20,12 @@ There are many motivations to pursue Computer Science, but mine is different. Du
 
 ## Ongoing Research Projects
 
-Currently, I am working on financial analyst with large language model with dataset from WRDS UPenn.
+Currently, I am working on my research in financial analyst with large language model.
 
-Research Assistant on LLM/ NLP at Northwestern for winter quater.
+Research Assistant on LLM/ NLP at Northwestern for NULLMgroup - doing cool stuff with sign language and robotics.
+
+Check Out this interesting Website!
+https://syntropix.ai/
 
 ### Programming Languages
 
